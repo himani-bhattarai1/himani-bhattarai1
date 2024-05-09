@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Git & GitHub**
 
-- 👨‍💻 All of my projects are available at [himanibhattarai.com.np](himanibhattarai.com.np)
+- 👨‍💻 All of my projects are available at [www.himanibhattarai.com.np](himanibhattarai.com.np)
 
 - 💬 Ask me about **anything**
 
