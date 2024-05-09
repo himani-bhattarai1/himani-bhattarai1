@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **QA Tools**
 
-- 🌱 I’m currently learning **QA testing**
-
 - 🤝 I’m looking for help with **Git & GitHub**
 
 - 👨‍💻 All of my projects are available at [himanibhattarai.com.np](himanibhattarai.com.np)
